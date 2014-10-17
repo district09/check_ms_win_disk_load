@@ -30,6 +30,8 @@ step in your bug report. The script is highly adaptable if you want different ou
 10/10/2014 => Script creation
 11/10/2014 => Fixed error in outputstring and issue with cookedvalue
 15/10/2014 => Changes to unit of measurement
+16/10/2014 => Solved some bugs, implemented warning and critical queue length thresholds
+17/10/2014 => Documentation and testing
 
 ### Copyright
 
