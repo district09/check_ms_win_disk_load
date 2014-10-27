@@ -6,7 +6,7 @@ Check MS Windows disk load by using Powershell to get all disk load related coun
 
 ### Status
 
-In test phase. Plugin confirmed to work, but could contain small bugs. I also need to implement warning and critical thresholds for read and write queue length.
+Testing. Plugin confirmed to work, but could contain small bugs.
 
 ### How To
 
