@@ -1,21 +1,22 @@
-# Nagios plugin to check Microsoft Windows 2008 or higher scheduled tasks
+# Nagios plugin to check disk load on a Microsoft Windows host.
 
 ### Idea
 
-Check MS Windows disk load by using Powershell to get all disk load related counters from Windows Performance Manager
+Check MS Windows disk load by using Powershell to get all disk load related counters from Windows Performance Manager, 
+computing averages for all gathered samples and calculating read / write rate, number of reads / writes, read / write 
+latency and read / write queue length.
 
 ### Status
 
-Testing. Plugin confirmed to work, but could contain small bugs.
+Production ready.
 
 ### How To
 
-Please check http://outsideit.net/check_ms_win_disk_load for more information on how to use this plugin.
+Please visit http://outsideit.net/check-ms-win-disk-load for more information on how to use this plugin.
 
 ### Help
 
-If happen to find a bug, please create an issue on GitHub. Please include console's output and reproduction 
-step in your bug report. 
+In case you find a bug or have a feature request, please make an issue on GitHub.
 
 ### On Nagios Exchange
 
