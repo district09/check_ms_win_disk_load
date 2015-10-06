@@ -6,6 +6,10 @@ Check MS Windows disk load by using Powershell to get all disk load related coun
 computing averages for all gathered samples and calculating read / write rate, number of reads / writes, read / write 
 latency and read / write queue length.
 
+### Screenshot
+
+![Alt text](/../screenshots/check-ms-win-disk-load-01.png?raw=true "Optional Title")
+
 ### Status
 
 Production ready.
