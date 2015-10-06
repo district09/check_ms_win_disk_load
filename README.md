@@ -8,7 +8,7 @@ latency and read / write queue length.
 
 ### Screenshot
 
-![Alt text](/../screenshots/check-ms-win-disk-load-01.png?raw=true "Optional Title")
+![Disk Load Highcharts Graph 01](/../screenshots/check-ms-win-disk-load-graph-01.png?raw=true "Optional Title")
 
 ### Status
 
