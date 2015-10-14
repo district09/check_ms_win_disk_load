@@ -2,13 +2,13 @@
 
 ### Idea
 
-Check MS Windows disk load by using Powershell to get all disk load related counters from Windows Performance Manager, 
-computing averages for all gathered samples and calculating read / write rate, number of reads / writes, read / write 
-latency and read / write queue length.
+Check MS Windows disk load by using this Powershell script to get all disk load related counters from Windows Performance 
+Manager, computing averages for all gathered samples and calculating read / write rate, number of reads / writes, read / 
+write latency and read / write queue length.
 
 ### Screenshot
 
-![Disk Load Highcharts Graph 01](/../screenshots/check-ms-win-disk-load-graph-01.png?raw=true "Optional Title")
+![Disk Load Highcharts Graph 01](/../screenshots/check-ms-win-disk-load-graph-01.png?raw=true "Disk Load Highcharts Graph 01")
 
 ### Status
 
