@@ -24,7 +24,7 @@ In case you find a bug or have a feature request, please make an issue on GitHub
 
 ### On Nagios Exchange
 
-http://exchange.nagios.org/directory/Plugins/Operating-Systems/Windows-NRPE/Check-Microsoft-Windows-Disk-Load/details
+https://exchange.nagios.org/directory/Plugins/Operating-Systems/Windows-NRPE/Check-Microsoft-Windows-Disk-Load/details
 
 ### Copyright
 
