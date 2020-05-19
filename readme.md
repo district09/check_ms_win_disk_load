@@ -18,6 +18,23 @@ Production ready.
 
 Please visit https://outsideit.net/check-ms-win-disk-load for more information on how to use this plugin.
 
+### Parameters added by moschi
+
+```bash
+-s | --strict
+```
+
+Enforces compliance with montioring-plugins.org definition for Plugin API
+
+```bash
+-wrw | --WriteRateWarning
+-wrc | --WriteRateCritical
+-rrw | --ReadRateWarning
+-rrc | --ReadRateCritical
+```
+
+Options to declare warning / critical thresholds for Read and Write rate.
+
 ### Help
 
 In case you find a bug or have a feature request, please make an issue on GitHub.
